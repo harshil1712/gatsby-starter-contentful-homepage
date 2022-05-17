@@ -35,6 +35,10 @@ You will need a new or existing [Contentful space][] to use this starter and wil
    ```sh
    cd my-homepage
    yarn setup
+
+   # or
+
+   npm run setup
    ```
 
    This will run a script to populate your Contentful space's content model and add demo content.
@@ -45,6 +49,10 @@ You will need a new or existing [Contentful space][] to use this starter and wil
 
    ```sh
    yarn start
+
+   # or
+
+   npm run start
    ```
 
    Your site should now be running at <http://localhost:8000>
